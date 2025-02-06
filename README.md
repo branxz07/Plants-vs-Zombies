@@ -23,7 +23,7 @@ This C++ console-based game is a recreation of Plants vs. Zombies using ASCII ar
     ```
 2. **Compile the game:**
     ```sh
-    g++ -o pvz_game main.cpp game.cpp utils.cpp -std=c++11
+    g++ -o pvz_game PvZ_ASCII.cpp -std=c++11
     ```
 3. **Run the game:**
     ```sh
