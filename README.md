@@ -18,7 +18,7 @@ This C++ console-based game is a recreation of Plants vs. Zombies using ASCII ar
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-repo/ASCII-PvZ.git
+    git clone https://github.com/your-repo/Plants-vs-Zombies.git
     cd ASCII-PvZ
     ```
 2. **Compile the game:**
